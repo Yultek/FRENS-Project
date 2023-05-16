@@ -50,7 +50,7 @@ https://www.canva.com/design/DAFclcatOME/F3wj0k6RMCpvPIj02XOzDA/edit?utm_content
 	-Inventory of compatible animations  
 
 
-# -Video tutorials on each step of the process:  
+**Video tutorials on each step of the process**  
 -Character modeling/ Rigging  
 -Animating in Blender  
 -Importing and optimizing for Unity  
