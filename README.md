@@ -2,6 +2,9 @@
 
 ![alt text](https://gateway.pinata.cloud/ipfs/QmeGmoiA8RcXWgkP3kzfhCGwhc6gu3QMbxH8kqg2H11oe3)  
 
+![](https://hackmd.io/_uploads/HkzJZ4ZS3.png)
+
+
 ## NPC Character Development  
 ### Welcome to the FRENS project, an initiative to create character building tools for Mona worlds. The metaverse can be a lonely place, and we believe that creating lifelike and interactive Non-Player Characters (NPCs) can change the way we interact with these builds. Even basic NPCs can bring a space to life, creating a truly immersive three-dimensional experience that can be both cinematic and educational. 
 
@@ -21,6 +24,8 @@
 - Reactor tools/triggers,   
 - Navmesh Agent integration  
 - Test creating enemies and animated obstacles, general background characters, and “dependant” NPC sidekicks.  
+
+![](https://hackmd.io/_uploads/S1hjg4bHh.png)
 
 
 ### **Develop NPC Templates**  
