@@ -17,7 +17,7 @@
 ## Outcomes  
 ### **Research and compile resources for generating animated NPCs**  
 - Develop a Github/Google Doc for access to all resources and assets  
-- Hire part time consultation and support  
+- Hire part time consultation and support.  
 - Research the history, terminology, and types of NPCs for professional game development  
 - Compile resources on character templates and information on weight map transfers and more.  
 - Research and test animation tools in Unity:   
