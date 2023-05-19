@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AvatarHeadMAsk
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: bOOBOXBODY_Mat_1_Mat_1
+    m_Weight: 1
+  - m_Path: Hips_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/LeftUpLeg_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/LeftUpLeg_bind/LeftLeg_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/LeftUpLeg_bind/LeftLeg_bind/LeftFoot_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/LeftUpLeg_bind/LeftLeg_bind/LeftFoot_bind/LeftToeBase_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/LeftUpLeg_bind/LeftLeg_bind/LeftFoot_bind/LeftToeBase_bind/LeftToe_End_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/RightUpLeg_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/RightUpLeg_bind/RightLeg_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/RightUpLeg_bind/RightLeg_bind/RightFoot_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/RightUpLeg_bind/RightLeg_bind/RightFoot_bind/RightToeBase_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/RightUpLeg_bind/RightLeg_bind/RightFoot_bind/RightToeBase_bind/RightToe_End_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/LeftShoulder_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/LeftShoulder_bind/LeftArm_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/LeftShoulder_bind/LeftArm_bind/LeftForeArm_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/LeftShoulder_bind/LeftArm_bind/LeftForeArm_bind/LeftHand_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/Neck_bind
+    m_Weight: 0
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/Neck_bind/Head_bind
+    m_Weight: 0
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/Neck_bind/Head_bind/HeadTop_End_bind
+    m_Weight: 0
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/RightShoulder_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/RightShoulder_bind/RightArm_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/RightShoulder_bind/RightArm_bind/RightForeArm_bind
+    m_Weight: 1
+  - m_Path: Hips_bind/Spine_bind/Spine1_bind/Spine2_bind/RightShoulder_bind/RightArm_bind/RightForeArm_bind/RightHand_bind
+    m_Weight: 1
