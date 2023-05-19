@@ -16,7 +16,7 @@ public class FindTarget : MonoBehaviour
     private bool isAggro = false;
     private Transform currentTarget;
     private float targetTimer = 0f;
-    private float targetSelectionInterval = 5f;
+    public float targetSelectionInterval = 5f;
 
     private Renderer currentTargetRenderer;
 
