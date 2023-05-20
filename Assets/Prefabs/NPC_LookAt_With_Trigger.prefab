@@ -96,8 +96,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 604665528059892229}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.4812, z: 7.0503}
-  m_LocalScale: {x: 12.947165, y: 12.127056, z: 24.287586}
+  m_LocalPosition: {x: 2.2912, y: 3.2055, z: 18.5417}
+  m_LocalScale: {x: 7.051894, y: 5.7154818, z: 11.647839}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5195669107464580072}
@@ -118,7 +118,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 604665528059892229}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -131,7 +131,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a4463a9b2c2aecb4c83a621a78cdbecd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -183,11 +183,17 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"objectLooking","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Transform,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"isInsideCollider","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ObejetThatWillBeColliding","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"defaultColliderMat","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Material,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"activeColliderMat","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Material,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"triggerSource","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 0}
     - {fileID: 4793349848452874471}
     - {fileID: 0}
+    - {fileID: 2100000, guid: a4463a9b2c2aecb4c83a621a78cdbecd, type: 2}
+    - {fileID: 2100000, guid: 72c2554035119ed409634dd5574d8759, type: 2}
+    - {fileID: 604665528059892229}
 --- !u!114 &604665528059892234
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -238,7 +244,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &604665528636254192
 Transform:
   m_ObjectHideFlags: 0
@@ -247,8 +253,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 604665528636254195}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: 2.4812, z: 1.38}
-  m_LocalScale: {x: 2.3612, y: 5.0435233, z: 2.3612}
+  m_LocalPosition: {x: -0.59, y: 1.9825, z: 3.1}
+  m_LocalScale: {x: 4.260313, y: 8.102666, z: 4.260313}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5195669107464580072}
@@ -269,7 +275,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 604665528636254195}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -282,7 +288,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: dcc223cf1732eaa418a99237d35bc186, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -791,7 +797,7 @@ Animator:
   m_GameObject: {fileID: 4850773903206117714}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: e387f3df3505a2144a40908becb55b5b, type: 3}
-  m_Controller: {fileID: 9100000, guid: 18d090d00b9094140978930a0eb7bb75, type: 2}
+  m_Controller: {fileID: 9100000, guid: 84b2805bb09356b43919ec6f760b8585, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
