@@ -62,6 +62,19 @@
 
 
 ### Current Progress:
+5/28/23
+- Created Issues list in Github
+- Coordinated with other grantees for cross-grant collaboration
+- Developed full scope of final deliverables in Issues
+- Researching alternatives to NAVmesh tools
+    - Umotion - blend additional animation over existing anim
+    - Visual State Machine
+- Researching retargeting and auto weight transfers/ auto bone placement
+    - Riggify
+    - https://www.youtube.com/watch?v=Op0AvUChNTo
+    - https://www.mixamo.com/#/
+- Test video to Mocap tools
+    - https://in3d.io/
 5/19/23  
 - Onboarded Boomboxhead for support and consultation
 - Created Github Repo and Unity co-working files
