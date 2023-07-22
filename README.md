@@ -28,7 +28,24 @@
 ![](https://hackmd.io/_uploads/S1hjg4bHh.png)
 
 
-### Updated scope of work: half budget
+### Deliverables
+
+**Reactor Based NPC Pack**
+Drag and drop .unitypackages of interactive characters using the Mona Reactors. 
+Customize your scene with one person, or a whole group using our asset pack.
+
+Included below are instructions of how to add your own characters and animations to our fully customizable templates.
+
+**Visual Scripting NPC Pack**
+Custom built visual scripted NPC templates by Boomboxheads. 
+Utilize multiple styles of waypoint finding systems to add direction and purpose to how your characters move around the space.
+
+
+
+
+
+
+
 
 **Develop NPC Templates**
 
