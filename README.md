@@ -47,8 +47,6 @@ Utilize multiple styles of waypoint finding systems to add direction and purpose
 
 
 
-
-
 **Develop NPC Templates**
 
 - Create and test 2 different rigging types: humanoid, and custom rigged model
