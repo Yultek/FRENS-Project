@@ -81,6 +81,28 @@ Utilize multiple styles of waypoint finding systems to add direction and purpose
 
 
 ### Current Progress:
+6/11/23
+- Created new Github repo for Visual Scripting builds
+https://github.com/gm3/Mona_NPCs
+- Updated Deliverables
+https://github.com/gm3/Mona_NPCs/issues/1
+- Met with Memory to discuss Visual Scripting tools and Mona limitations
+    - Brainstormed “look at” and “follow” tools, etc.
+- Met with Matt and Christian to discuss feedback on the overall grant program
+- Discussed with the core Mona team about AINavMesh and Navmesh Obstacle integration into the Mona SDK
+- Developed and tested Q/A UI tools -next steps converting to VS and building unity plugin for a user friendly experience.
+- Onboarded into Oasis build, Github>Resilio, chose location S
+    - tested importing/updating via resilio
+    - prepping to upload unity packages - schedule with Memory for final tests/ install
+    - https://www.notion.so/YULTEK-f55d2d60595747b7bcbf04ffbbf0ad91?pvs=4#154d31eb6b2d4f59b3241b98e51a0c40
+ - Begun humanoid modeling
+-Using Mixamo armature for easy integration of animation presets
+-We are Creating a simple workflow for retargeting animations and easily placing your model into our NPC presets.
+-Designing characters that can easily be accessorized as a host or npc
+    - [](https://cdn.discordapp.com/attachments/995412112769822850/1116170930272604262/Unity_DjM3IBTciz.gif)
+    - [](https://cdn.discordapp.com/attachments/995412112769822850/1116460115571245056/chrome_Fqn6bcebO0.gif)
+
+
 5/28/23
 - Created Issues list in Github
 - Coordinated with other grantees for cross-grant collaboration
@@ -94,6 +116,10 @@ Utilize multiple styles of waypoint finding systems to add direction and purpose
     - https://www.mixamo.com/#/
 - Test video to Mocap tools
     - https://in3d.io/
+- Testing “look” and “follow” functions with C#
+  [](https://cdn.discordapp.com/attachments/995412112769822850/1109467989654388776/Unity_Klt7W2xs1o.gif)
+- Testing “look” and “follow” functions with Visual Scripting
+[](https://cdn.discordapp.com/attachments/995412112769822850/1112560869746937906/Unity_gRRotDOFQz.gif)
 5/19/23  
 - Onboarded Boomboxhead for support and consultation
 - Created Github Repo and Unity co-working files
