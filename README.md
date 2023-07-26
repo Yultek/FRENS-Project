@@ -8,11 +8,13 @@
 ## NPC Character Development  
 ### Welcome to the FRENS project, an initiative to create character building tools for Mona worlds. The metaverse can be a lonely place, and we believe that creating lifelike and interactive Non-Player Characters (NPCs) can change the way we interact with these builds. Even basic NPCs can bring a space to life, creating a truly immersive three-dimensional experience that can be both cinematic and educational. 
 
-- **[Master Google Doc](https://docs.google.com/document/d/1n0FLwARSTRZNjAyPzXoeQeP58nY-RgnI9N1HER8Kyiw/edit?usp=sharing)**  
-
-
+- **[Master Google Doc](https://docs.google.com/document/d/1n0FLwARSTRZNjAyPzXoeQeP58nY-RgnI9N1HER8Kyiw/edit?usp=sharing)**
+-
+- **[FINAL REPORT](https://www.canva.com/design/DAFpsaFIUmY/CjLWFQ98IgIpKXXJR1906g/view?utm_content=DAFpsaFIUmY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+- 
 - **[Project Presentation/Proposal](https://www.canva.com/design/DAFclcatOME/F3wj0k6RMCpvPIj02XOzDA/edit?utm_content=DAFclcatOME&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
 
+- **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1-U_AXW6W-e4hedfSdTnT7aVyJExsDOLo/view?usp=drive_link))**  
 
 ## Outcomes  
 ### **Research and compile resources for generating animated NPCs**  
