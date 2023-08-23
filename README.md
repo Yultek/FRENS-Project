@@ -127,7 +127,11 @@ https://github.com/gm3/Mona_NPCs/issues/1
 - Attempted to convert C# game script into YAML then Visual Script using ChatGPT
 - Reached out to Mona team about VS resources and Unity AI tool integration
 
-## Drag and drop Reactor models
+
+
+# Drag and drop Reactor model tutorial
+
+- **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1-U_AXW6W-e4hedfSdTnT7aVyJExsDOLo/view?usp=drive_link))**  
 - Import unity package
   - Unselect any preexisting mona files from the import
 - Find prefabs in the Prefab Folder
