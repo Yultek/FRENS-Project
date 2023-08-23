@@ -36,46 +36,14 @@
 Drag and drop .unitypackages of interactive characters using the Mona Reactors. 
 Customize your scene with one person, or a whole group using our asset pack.
 
+- **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1-U_AXW6W-e4hedfSdTnT7aVyJExsDOLo/view?usp=drive_link))**
+- 
 Included below are instructions of how to add your own characters and animations to our fully customizable templates.
 
 **Visual Scripting NPC Pack**
 Custom built visual scripted NPC templates by Boomboxheads. 
 Utilize multiple styles of waypoint finding systems to add direction and purpose to how your characters move around the space.
 
-
-
-
-
-
-**Develop NPC Templates**
-
-- Create and test 2 different rigging types: humanoid, and custom rigged model
-- Generate 4+ low poly custom 3D models - fully textured and rigged.
-- Compile resources on character templates and information on weight map transfers and more.
-- Develop custom animation sequences and compile resources for animation presets.
-- Create a collection of animations for NPCs: Idle, walk, run, misc behaviors
-- Test VRM imports and techniques for easily utilizing your VRM designs as NPCs.
-
-**Create an NPC Community Asset Pack**
-
-- All model templates will be preset with a bank of interactive features/animations using the animator and Reactor (idle>interaction1>interaction2>idle)
-- Written instructions and inventory of how to customize the Unity Package/Reactor/VS templates
-- Animated Humanoid NPC
-    - Asset pack with 1-2 ready-made humanoid characters
-    - Rigged, fully textured
-    - Inventory of compatible animations
-- Animated robot custom-rigged NPC
-    - Asset pack with 1-2 ready-made robot characters
-    - Rigged, fully textured
-    - Inventory of compatible animations
-
-**Written tutorials on each step of the process**
-
-- Character modeling/ Rigging
-- Animating and importing animations in Blender
-- Importing and optimizing for Unity
-- Utilizing the Unity Animator, VRM and Reactor tools
-- Importing into Mona Space and testing full functions
 
 
 ### Current Progress:
@@ -131,7 +99,8 @@ https://github.com/gm3/Mona_NPCs/issues/1
 
 # Drag and drop Reactor model tutorial
 
-- **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1-U_AXW6W-e4hedfSdTnT7aVyJExsDOLo/view?usp=drive_link))**  
+- **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1-U_AXW6W-e4hedfSdTnT7aVyJExsDOLo/view?usp=drive_link))**
+- 
 - Import unity package
   - Unselect any preexisting mona files from the import
 - Find prefabs in the Prefab Folder
