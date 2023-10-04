@@ -9,7 +9,7 @@
 ### Welcome to the FRENS project, an initiative to create character building tools for Mona worlds. The metaverse can be a lonely place, and we believe that creating lifelike and interactive Non-Player Characters (NPCs) can change the way we interact with these builds. Even basic NPCs can bring a space to life, creating a truly immersive three-dimensional experience that can be both cinematic and educational. 
 
 # **VVV DOWNLOAD THE LATEST ASSET PACK HERE VVV**
-## **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1O0Bnf4i08GaBU0x3Mhz_Q4Twt7edg3kk/view?usp=sharing)**  
+## **[FRENS Project V1.1 Asset Pack](https://drive.google.com/file/d/1O0Bnf4i08GaBU0x3Mhz_Q4Twt7edg3kk/view?usp=sharing)**  
 
 - **[Master Google Doc](https://docs.google.com/document/d/1n0FLwARSTRZNjAyPzXoeQeP58nY-RgnI9N1HER8Kyiw/edit?usp=sharing)**
 
