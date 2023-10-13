@@ -11,6 +11,8 @@
 # **VVV DOWNLOAD THE LATEST ASSET PACK HERE VVV**
 ## **[FRENS Project V1.1 Asset Pack - ZIP FILE](https://drive.google.com/file/d/1O0Bnf4i08GaBU0x3Mhz_Q4Twt7edg3kk/view?usp=sharing)**  
 
+- **[HOW TO IMPORT FRENS PACKAGES](https://drive.google.com/file/d/1UZGGbCAUQjdlAZWXk4xGtvh9i-e-Coid/view?usp=sharing)**
+
 - **[Master Google Doc](https://docs.google.com/document/d/1n0FLwARSTRZNjAyPzXoeQeP58nY-RgnI9N1HER8Kyiw/edit?usp=sharing)**
 
 - **[FINAL REPORT](https://www.canva.com/design/DAFpsaFIUmY/CjLWFQ98IgIpKXXJR1906g/view?utm_content=DAFpsaFIUmY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
