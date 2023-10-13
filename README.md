@@ -11,7 +11,9 @@
 # **VVV DOWNLOAD THE LATEST ASSET PACK HERE VVV**
 ## **[FRENS Project V1.1 Asset Pack - ZIP FILE](https://drive.google.com/file/d/1O0Bnf4i08GaBU0x3Mhz_Q4Twt7edg3kk/view?usp=sharing)**  
 
-- **[HOW TO IMPORT FRENS PACKAGES](https://drive.google.com/file/d/1UZGGbCAUQjdlAZWXk4xGtvh9i-e-Coid/view?usp=sharing)**
+- **[TUTORIAL 1 - HOW TO IMPORT FRENS PACKAGES](https://drive.google.com/file/d/1UZGGbCAUQjdlAZWXk4xGtvh9i-e-Coid/view?usp=sharing)**
+
+- **[TUTORIAL 2 - REACTOR BREAKDOWN AND SWAPPING ANIMATIONS](https://drive.google.com/file/d/1u6L3wYF-_sryGmHpDq8A80oBBhwZF3ow/view?usp=drive_link)**
 
 - **[Master Google Doc](https://docs.google.com/document/d/1n0FLwARSTRZNjAyPzXoeQeP58nY-RgnI9N1HER8Kyiw/edit?usp=sharing)**
 
