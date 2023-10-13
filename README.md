@@ -41,7 +41,6 @@
 Drag and drop .unitypackages of interactive characters using the Mona Reactors. 
 Customize your scene with one person, or a whole group using our asset pack.
 
-- **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1-U_AXW6W-e4hedfSdTnT7aVyJExsDOLo/view?usp=drive_link))**
 - 
 Included below are instructions of how to add your own characters and animations to our fully customizable templates.
 
@@ -104,7 +103,11 @@ https://github.com/gm3/Mona_NPCs/issues/1
 
 # Drag and drop Reactor model tutorial
 
-- **[FRENS Project V1 Asset Pack](https://drive.google.com/file/d/1-U_AXW6W-e4hedfSdTnT7aVyJExsDOLo/view?usp=drive_link))**
+- **[FRENS Project V1.1 Asset Pack - ZIP FILE](https://drive.google.com/file/d/1O0Bnf4i08GaBU0x3Mhz_Q4Twt7edg3kk/view?usp=sharing)** 
+ 
+- **[TUTORIAL 1 - HOW TO IMPORT FRENS PACKAGES](https://drive.google.com/file/d/1UZGGbCAUQjdlAZWXk4xGtvh9i-e-Coid/view?usp=sharing)**
+
+- **[TUTORIAL 2 - REACTOR BREAKDOWN AND SWAPPING ANIMATIONS](https://drive.google.com/file/d/1u6L3wYF-_sryGmHpDq8A80oBBhwZF3ow/view?usp=drive_link)**
 - 
 - Import unity package
   - Unselect any preexisting mona files from the import
